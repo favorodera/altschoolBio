@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: 300px 300px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input {
+    width: 210px;
+    height: 30px;
+    margin: 10px 0;
+  }
